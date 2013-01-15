@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sass --watch main.scss:../styles.css --style compressed
+exit 0
